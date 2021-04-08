@@ -1,6 +1,4 @@
-# Goose Finance
-
-https://goosedefi.com Feel free to read the code. More details coming soon.
+# Estate OnBlock
 
 ## Deployed Contracts / Hash
 
